@@ -29,7 +29,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/task-tracker-cli.git
+   git clone https://github.com/gurupatoh/task-tracker-cli.git
    cd task-tracker-cli
    ```
 
